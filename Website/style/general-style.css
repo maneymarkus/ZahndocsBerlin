@@ -898,7 +898,7 @@ address b {
 
 @media screen and (min-width: 600px) {
 	.overlay .modal-window {
-		font-size: 1.5rem;
+		font-size: 1.2rem;
 	}
 }
 
@@ -1271,7 +1271,7 @@ address b {
 
 	.overlay .modal-window {
 		padding: 3rem;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		width: 50%;
 		max-height: 80vh;
 	}

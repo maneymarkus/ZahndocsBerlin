@@ -44,13 +44,12 @@ var Module = (function(window, document, undefined) {
 			e = d.documentElement,
 			g = d.getElementsByTagName('body')[0];
 
-		//var modalWin = document.getElementsByClassName("overlay")[0];
-		/*
+		var modalWin = document.getElementsByClassName("overlay")[0];
+
 		let closeModalWinBtn = modalWin.getElementsByClassName("close")[0];
 		closeModalWinBtn.addEventListener("click", function () {
 			modalWin.classList.remove("visible");
 		});
-		 */
 		
 		var div = document.getElementsByClassName("show-booking")[0];
 		var divA = div.getElementsByTagName("a")[0];
@@ -300,7 +299,7 @@ var Module = (function(window, document, undefined) {
 
 	document.addEventListener("DOMContentLoaded", function() {
 		if (top != self) {
-			alert("Sie haben nicht die Originalseite gesehen. Sollte das Problem immer noch bestehen (z.B. falsche Adresse (Original:http://www.zahndocs-berlin.de), die Seite wird nicht im gesamten Fenster dargestellt), dann rufen Sie die originale Website der Zahndocs Berlin bitte mit dieser Adresse auf: hhtp://www.zahndocs-berlin.de");
+			alert("Sie haben nicht die Originalseite gesehen. Sollte das Problem immer noch bestehen (z.B. falsche Adresse (Original: http://www.zahndocs-berlin.de), die Seite wird nicht im gesamten Fenster dargestellt), dann rufen Sie die originale Website der Zahndocs Berlin bitte mit dieser Adresse auf: https://www.zahndocs-berlin.de");
 			top.location.replace(self.location.href);
 		}
 		init();
