@@ -164,8 +164,15 @@
 
 				<section>
 
-	        <p>Zur Zeit besteht kein Bedarf an zusätzlichem Personal, gerne können Sie uns aber eine Initiativbewerbung schicken. Sie können uns wie folgt erreichen:</p>
-          <!--<p>Aktuell sind wir auf der Suche nach Personal in den Bereichen Professionelle Zahnreinigung, Rezeption und Stuhlassistenz. Wenn Sie sich vorstellen können, unser Team tatkräftig zu unterstützen, dann schicken Sie Ihre Bewerbung bitte an:</p>-->
+                    <!--<p>Zur Zeit besteht kein Bedarf an zusätzlichem Personal, gerne können Sie uns aber eine Initiativbewerbung schicken. Sie können uns wie folgt erreichen:</p>-->
+                    <p>Aktuell sind wir auf der Suche nach Personal und bieten die folgenden Stellen an:</p>
+                    <ul>
+                        <li>Zahnarzt/Zahnärztin</li>
+                        <li>Helfer*in für Assistenz und Rezeption (fundierte Abrechnungskenntnisse werden vorausgesetzt)</li>
+                        <li>Auszubildende/Auszubildender</li>
+                    </ul>
+                    <p>Wenn Sie sich vorstellen können, unser Team tatkräftig zu unterstützen, dann schicken Sie Ihre Bewerbung bitte an:</p>
+
 					<p><b>per E-Mail: </b><a class="mail">praxis@zahndocs-berlin.de</a><br />
 					oder<br />
 					<b>per Post:</b></p>
