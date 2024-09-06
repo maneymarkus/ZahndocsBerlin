@@ -134,9 +134,6 @@
 								<li>
 									<a href="leistungen/implantate.php">Implantate</a>
 								</li>
-								<li>
-									<a href="leistungen/narkose.php">Narkose</a>
-								</li>
 							</ul>
 						</li>
 						<li class="li">
@@ -196,17 +193,6 @@
 					</p>
 					
 					<a title="Link zu: Implantate" href="leistungen/implantate.php"><strong>Weiterlesen…</strong></a>
-					
-					<hr />
-					
-					<h2>Narkosen / Vollnarkosen</h2>
-					
-					<p>
-						Der Traum vieler Patienten - keine Angst vor dem Zahnarzt!<br />
-						Trotz der heute weitgehend schmerzfreien Behandlung mit der Spritze wird die Zahnbehandlung von vielen Patienten als unangenehme und bedrohliche Situation wahrgenommen.
-					</p>
-					
-					<a title="Link zu: Narkose" href="leistungen/narkose.php"><strong>Weiterlesen…</strong></a>
 			
 				</section>
 			

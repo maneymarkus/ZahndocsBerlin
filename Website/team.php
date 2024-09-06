@@ -134,9 +134,6 @@
 								<li>
 									<a href="leistungen/implantate.php">Implantate</a>
 								</li>
-								<li>
-									<a href="leistungen/narkose.php">Narkose</a>
-								</li>
 							</ul>
 						</li>
 						<li class="li">
