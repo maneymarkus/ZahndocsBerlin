@@ -123,9 +123,9 @@
 
                         <div>
 
-                            <img src="images/Homepage_Maren_Cornelius.jpg" alt="Assistentin Maren Cornelius" style="width: 100%; max-width: 300px;" />
+                            <img src="images/Manuela_Richter.jpg" alt="Assistentin Manuela Richter" style="width: 100%; max-width: 300px;" />
 
-                            <h3>Maren Cornelius</h3>
+                            <h3>Manuela Richter</h3>
 
                         </div>
 
@@ -142,7 +142,6 @@
                             <ul>
 
                                 <li>Prophylaxe</li>
-                                <li>Stuhlassistenz</li>
 
                             </ul>
 

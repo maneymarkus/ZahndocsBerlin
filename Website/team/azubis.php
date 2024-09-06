@@ -56,7 +56,6 @@
 		
 		<div id="wrapper">
 
-            <?php error_reporting(0); ?>
 			<?php include(dirname(__FILE__)."/../header.html"); ?>
 			
 			<main>
@@ -85,23 +84,9 @@
 				
 					<h2>Azubis</h2>
 				
-					<div>
-					
-						<div>
-						
-							<img src="images/Manuela_Divkovic.jpg" alt="Auszubildende Manuela Divkovic" />
-						
-							<h3>Manuela Divkovic</h3>
-						
-						</div>
-					
-						<ul>
-						
-							<li>Ausbildung zur zahnmedizinischen Fachangestellten seit 2021</li>
-						
-						</ul>
-					
-					</div>
+					<p>
+                        Wir sind mit Freude dabei, unseren Nachwuchs selbst auszubilden.
+                    </p>
 				
 				</section>
 			

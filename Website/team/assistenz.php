@@ -89,38 +89,6 @@
 
 						<div>
 
-							<img src="images/homepage-684x1024.jpg" alt="Assistentin Daniela Ardelt" />
-
-							<h3>Daniela Ardelt</h3>
-
-						</div>
-
-						<ul>
-
-							<li>Ausbildung zur zahnmedizinischen Fachangestellten 2003-2006</li>
-
-						</ul>
-
-						<div class="under-image-2">
-
-							<h4>Tätigkeit:</h4>
-
-							<ul>
-
-								<li>Stuhlassistenz</li>
-
-							</ul>
-
-						</div>
-
-					</div>
-
-					<hr />
-
-					<div>
-
-						<div>
-
 							<img src="images/2017-03-31Zahndocs-1031.jpg" alt="Assistentin Jean Münchberg" style="width: 100%; max-width: 500px;" />
 
 							<h3>Jean Münchberg</h3>
@@ -172,39 +140,6 @@
                             <ul>
 
                                 <li>Stuhlassistenz</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-                    <hr />
-
-                    <div>
-
-                        <div>
-
-                            <img src="images/Homepage_Maren_Cornelius.jpg" alt="Assistentin Maren Cornelius" style="width: 100%; max-width: 300px;" />
-
-                            <h3>Maren Cornelius</h3>
-
-                        </div>
-
-                        <ul>
-
-                            <li></li>
-
-                        </ul>
-
-                        <div class="under-image-2">
-
-                            <h4>Tätigkeit:</h4>
-
-                            <ul>
-
-                                <li>Stuhlassistenz</li>
-                                <li>Prophylaxe-Assistenz</li>
 
                             </ul>
 

@@ -56,7 +56,6 @@
 
 		<div id="wrapper">
 
-            <?php error_reporting(E_ALL); ?>
 			<?php include(dirname(__FILE__)."/../header.html"); ?>
 
 			<main>
