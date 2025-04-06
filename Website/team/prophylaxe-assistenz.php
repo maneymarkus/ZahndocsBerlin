@@ -84,40 +84,6 @@
 				<section>
 				
 					<h2>Prophylaxe-Assistenz</h2>
-					
-					<div>
-					
-						<div>
-						
-							<img src="images/homepage-und-Wartezimmer-684x1024.jpg" alt="Prophylaxe-Assistentin Viktoria Gossmann" />
-						
-							<h3>Viktoria Gossmann</h3>
-						
-						</div>
-					
-						<ul>
-						
-							<li>Ausbildung zur zahnmedizinischen Fachangestellten 2009-2012</li>
-							<li>Weiterbildung zur zahnmedizinischen Prophylaxeassistentin 2015</li>
-						
-						</ul>
-						
-						<div class="under-image-2">
-						
-							<h4>Tätigkeit:</h4>
-						
-							<ul>
-						
-								<li>Prophylaxe</li>
-								<li>Stuhlassistenz</li>
-								
-							</ul>
-						
-						</div>
-					
-					</div>
-
-                    <hr/>
 
                     <div>
 
